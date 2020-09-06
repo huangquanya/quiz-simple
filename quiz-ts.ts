@@ -2,8 +2,15 @@
 // * 给下这段的代码加上 TypeScript 类型声明，以便更好地使用数据。
 
 // * ---------------- 请补充……
+type data = {
+  userId: number
+  id: number
+  title: string
+  completed: boolean
+}
 
-const getData = async () =>
+
+const getData = async ():Promise<data[]> =>
   await fetch('https://jsonplaceholder.typicode.com/todos/').then((response) => response.json());
 
 getData().then((e) => console.log(e));

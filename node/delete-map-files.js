@@ -5,6 +5,8 @@
  */
 const deleteMapFiles = (p) => {
   // 请实现……
+  const fs = require('fs')
+  fs.readFile(p)
 };
 
 // * ------------------------------------------------

@@ -12,32 +12,32 @@
 | 名词           | 是什么               |
 | :------------- | :------------------- |
 | Node.js        | 是 JS 的一个 runtime |
-| npm            | 是 ……                |
-| npx            | 是 ……                |
-| nvm            | 是 ……                |
-| nrm            | 是 ……                |
-| yarn           | 是 ……                |
-| React          | 是 ……                |
-| Vue            | 是 ……                |
-| Flux           | 是 ……                |
-| Mobx           | 是 ……                |
-| MVVM           | 是 ……                |
-| TDD            | 是 ……                |
-| Jest/Mocha     | 是 ……                |
-| node_modules   | 是 ……                |
-| package.json   | 是 ……                |
-| ECMAScript     | 是 ……                |
-| Electron       | 是 ……                |
-| Babel          | 是 ……                |
-| Webpack        | 是 ……                |
-| SSR            | 是 ……                |
+| npm            | 是 node的包管理工具               |
+| npx            | 是 命令行工具         |
+| nvm            | 是                |
+| nrm            | 是                |
+| yarn           | 是 facebook开源的包管理工具       |
+| React          | 是 组件化思想的JS开发框架                |
+| Vue            | 是 JS项目开发框架              |
+| Flux           | 是                |
+| Mobx           | 是 数据状态管理库            |
+| MVVM           | 是 模型-视图（逻辑）-视图（界面）-模型                |
+| TDD            | 是 测试驱动服务              |
+| Jest/Mocha     | 是 测试工具                |
+| node_modules   | 是 项目依赖包          |
+| package.json   | 是 项目依赖目录                |
+| ECMAScript     | 是 就是JS语言          |
+| Electron       | 是 用于制作桌面应用的框架                |
+| Babel          | 是 用于对JS文件进行预处理          |
+| Webpack        | 是 项目打包工具
+| SSR            | 是 服务器端渲染                |
 | BFF            | 是 ……                |
-| Serverless     | 是 ……                |
-| PWA            | 是 ……                |
-| V8             | 是 ……                |
-| libuv          | 是 ……                |
-| Stack Overflow | 是 ……                |
-| Deno           | 是 ……                |
+| Serverless     | 是 微服务            |
+| PWA            | 是 渐进式渲染程序                |
+| V8             | 是 Google开发的浏览器内核引擎              |
+| libuv          | 是               |
+| Stack Overflow | 是 栈溢出             |
+| Deno           | 是 node的作者最近推出的新的工具                |
 
 ## Q2
 
@@ -50,3 +50,9 @@
 > - 掘金、知乎
 
 答：
+> - 掘金的小册、知乎
+> - b站的up主：技术胖
+> - 微信公众号：高级前端进阶
+> - 微信技术交流群
+> - 微信读书
+> - 各种技术的官网

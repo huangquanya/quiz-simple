@@ -5,6 +5,7 @@
  */
 const getHostName = (url) => {
   // 请实现……
+  return url.match(/(?<=\/{2})[a-zA-Z0-9\.]+/)[0]
 };
 
 // * ---------------- 实现的效果：

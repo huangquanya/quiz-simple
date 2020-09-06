@@ -7,6 +7,16 @@
  */
 const getSumOfTriple = (arr, start, end) => {
   // 请实现……
+    let min = -Infinity, max = Infinity;
+    if(arguments.length === 0)return 0;
+    if(arguments.length === 2){
+      min = start
+    }
+    if(arguments.length === 3){
+      min = start;
+      max = end;
+    }
+    return arr.filter(num=>num<max&&num>min&&(num%3===0)).reduce((a,b)=>a+b);
 };
 
 // * ---------------- 实现的效果：
